@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 export default class Resume extends Component {
-    render: function() {
+    render() {
         return (
             <React.Fragment>
             {/* Resume Section
